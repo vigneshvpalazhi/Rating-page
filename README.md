@@ -27,7 +27,7 @@ This is an intractive rating page build using html,css and javascript
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/vigneshvpalazhi/Rating-page#screenshot)
 - Live Site URL: [live site URL](https://wonderful-elf-db24ef.netlify.app)
 
 
@@ -37,7 +37,9 @@ This is an intractive rating page build using html,css and javascript
 for this project i have learned to transfer data from one page to another using js
 
 resources that i reffered for this:[yt video](https://www.youtube.com/watch?v=0eV-tf-W2rQ)
-                                  :[article](https://stackoverflow.com/questions/17502071/transfer-data-from-one-html-file-to-another)
+
+
+also refer to this article        :[article](https://stackoverflow.com/questions/17502071/transfer-data-from-one-html-file-to-another)
 
 
 
